@@ -3,7 +3,7 @@ To be Noted: I have used Spotify Images and logo, I am using this for only educa
 
 Special Thanks for "Code with Harry"
 
-Even those this is the clone that I have learned from code with harry. I undestood how to use Fetch, and Async functions in javascript. I have also added auto play by myself. Add more reposiveness to the website. I didn't inculde few features that "Code with harry" included. But This is a "dynamic" and fully functional Wesbites
+Even though this is the clone that I have learned from "Code with Harry". I undestood how to use Fetch, and Async functions, etc in javascript. I have also added auto play by myself. Add more reposiveness to the website. I after watching the video once, I did by myself. I didn't inculde few features that "Code with harry" included. But This is a "dynamic" and fully functional Wesbites.
 
 ## To clone my repo
 run this command on you terminal
