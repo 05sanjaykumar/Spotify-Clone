@@ -39,3 +39,5 @@ git clone https://github.com/05sanjaykumar/Spotify-Clone/
 ## Responsive
 <img width="1440" alt="Screenshot 2024-05-31 at 1 08 50 PM" src="https://github.com/05sanjaykumar/Spotify-Clone/assets/132453013/1509de94-ca29-4c81-9b21-d4fbbc33e06b">
 
+## Mobile Devices
+<img width="1440" alt="Screenshot 2024-05-31 at 1 15 51 PM" src="https://github.com/05sanjaykumar/Spotify-Clone/assets/132453013/49539c9f-234b-4527-9768-c5631a4ed378">
