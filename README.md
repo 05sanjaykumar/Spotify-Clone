@@ -34,4 +34,4 @@ git clone https://github.com/05sanjaykumar/Spotify-Clone/
 }
 ```
 
-### Note: Still I have not done using server side, you the website would not load using git hub pages
+### Note: Still I have not done using server side, the website would not load using git hub pages
