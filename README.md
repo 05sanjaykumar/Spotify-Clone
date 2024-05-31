@@ -32,8 +32,10 @@ git clone https://github.com/05sanjaykumar/Spotify-Clone/
   "description": "Write your description"
 }
 ```
+
+## Normal
 <img width="1440" alt="Screenshot 2024-05-31 at 1 06 15 PM" src="https://github.com/05sanjaykumar/Spotify-Clone/assets/132453013/c44e8ae4-f0fb-46e9-aaaf-cfb38ad0ceba">
 
-
+## Responsive
 <img width="1440" alt="Screenshot 2024-05-31 at 1 08 50 PM" src="https://github.com/05sanjaykumar/Spotify-Clone/assets/132453013/1509de94-ca29-4c81-9b21-d4fbbc33e06b">
 
