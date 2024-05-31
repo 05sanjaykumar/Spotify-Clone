@@ -11,3 +11,24 @@ run this command on you terminal
 ```bash
 git clone https://github.com/05sanjaykumar/Spotify-Clone/
 ```
+### Folder Structure
+
+1. Create a folder named `songs` in the project directory.
+2. Inside the `songs` folder, create subfolders for your music categories. For example, `ChillBeats`, `Pop`, etc.
+3. Avoid spaces in folder names. Use `ChillBeats` instead of `Chill Beats`.
+4. Use Port `5500` for your files to work
+
+**Adding Song Information:**
+
+```markdown
+### Adding Song Information
+
+1. Inside each subfolder, place an image for the category and name it `Img.jpeg`.
+2. Create a file named `info.json` inside the subfolder.
+3. The `info.json` file should contain the following information in JSON format:
+
+```json
+{
+  "title": "Place your song Name",
+  "description": "Write your description"
+}
