@@ -21,7 +21,7 @@ function getTotalTime()
 }
 async function getSongs(folder)
 {
-    let a = await fetch(`http://127.0.0.1:5500/${folder}/`)
+    let a = await fetch(`/${folder}/`)
     currFolder = folder
     let response = await a.text()
     let div = document.createElement('div')
@@ -70,7 +70,7 @@ const PlayMusic = (track)=>{
 }
 async function displayAllAlbums()
 {
-    let a = await fetch(`http://127.0.0.1:5500/songs/`)
+    let a = await fetch(`songs/`)
     let response = await a.text()
     let div = document.createElement('div')
     div.innerHTML = response;
@@ -82,7 +82,7 @@ async function displayAllAlbums()
         if(e.href.includes("/songs/"))
         {
             let folder = (e.href.split("/songs/")[1])
-            let a = await fetch(`http://127.0.0.1:5500/songs/${folder}/info.json`)
+            let a = await fetch(`songs/${folder}/info.json`)
             let response = await a.json()
             let cc = document.querySelector(".cardContainer")
             cc.innerHTML = cc.innerHTML+ `
