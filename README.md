@@ -1,5 +1,5 @@
 # Spotify-Clone
-To Noted:- I have used Spotify Images and logo, I am using this for only educational purpose. I am not publishing this any where or in any other commericial platforms for money.
+To be Noted: I have used Spotify Images and logo, I am using this for only educational purpose. I am not publishing this any where or in any other commericial platforms for money.
 
 Special Thanks for "Code with Harry"
 
