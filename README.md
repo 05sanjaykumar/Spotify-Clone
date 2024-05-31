@@ -41,3 +41,5 @@ git clone https://github.com/05sanjaykumar/Spotify-Clone/
 
 ## Mobile Devices
 <img width="1440" alt="Screenshot 2024-05-31 at 1 15 51 PM" src="https://github.com/05sanjaykumar/Spotify-Clone/assets/132453013/49539c9f-234b-4527-9768-c5631a4ed378">
+
+## Since this is not connected to server side, Try running in vs code for making it work, using live server, or else try to set up a port for running the code
